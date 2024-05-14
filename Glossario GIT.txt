@@ -1,0 +1,9 @@
+git status = mostra como esta o repositório
+
+git add . = para enviar todos os arquivos para a área de preparação
+
+git commit -m"" = insere os arquivos enviados para a área de preparação
+
+git log = mostra todas as logs dos commits dos arquivos 
+
+git push origin main = empurrar/enviar os arquivos para a nuvem e para o git hub
